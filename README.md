@@ -19,5 +19,3 @@ This project is a Retrieval-Augmented Generation (RAG) system that allows users 
 - Built embedding pipeline using SentenceTransformer model
 - Designed a question-answering system using FLAN-T5 model
 - Integrated a full RAG pipeline (Retrieve → Generate → Answer)
-
-## Dataset
